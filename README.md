@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chanchal-Mandal
 - 👀 I’m interested in Physics and Data Science.
 - 🌱 I’m currently learning Machine learning and Quantum Mechanics.
-- 💞️ I’m looking to collaborate on Data Analystics Project
+- 💞️ I’m looking to collaborate on Data Analytics Project
 - 📫 How to reach me Email Id - chanchalmandal146@gmail.com
 
 <!---
